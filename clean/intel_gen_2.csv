@@ -1,0 +1,59 @@
+﻿Targetsegment,Processorbranding and model,Processorbranding and model,Cores(threads),CPU clock rate,CPU clock rate,Graphics clock rate,Graphics clock rate,L3Cache,TDP,Releasedate (Y-M-D),Price(USD),Motherboard,Motherboard,Motherboard
+Targetsegment,Processorbranding and model,Processorbranding and model.1,Cores(threads),Normal,Turbo,Normal,Turbo,L3Cache,TDP,Releasedate (Y-M-D),Price(USD),Socket,Interface,Memory
+Extreme / High-End,Core i7Extreme,3970X,6 (12),3.5 GHz,4.0 GHz,,,15 MB,150 W,2012-11-12,$999,LGA2011,DMI 2.0PCIe 2.0[24],Up to quadchannelDDR3-1600[25]
+Extreme / High-End,Core i7Extreme,3960X,6 (12),3.3 GHz,3.9 GHz,,,15 MB,130 W,2011-11-14,$999,LGA2011,DMI 2.0PCIe 2.0[24],Up to quadchannelDDR3-1600[25]
+Extreme / High-End,Core i7,3930K,6 (12),3.2 GHz,3.8 GHz,,,12 MB,130 W,2011-11-14,$583,LGA2011,DMI 2.0PCIe 2.0[24],Up to quadchannelDDR3-1600[25]
+Extreme / High-End,Core i7,3820,4 (8),3.6 GHz,3.8 GHz,,,10 MB,130 W,2012-02-13[26],$294,LGA2011,DMI 2.0PCIe 2.0[24],Up to quadchannelDDR3-1600[25]
+Performance,Core i7,2700K,4 (8),3.5 GHz,3.9 GHz,850 MHz,1350 MHz,8 MB,95 W,2011-10-24,$332,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Performance,Core i7,2600K,4 (8),3.4 GHz,3.8 GHz,850 MHz,1350 MHz,8 MB,95 W,2011-01-09,$317,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Performance,Core i7,2600,4 (8),3.4 GHz,3.8 GHz,850 MHz,1350 MHz,8 MB,95 W,2011-01-09,$294,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Performance,Core i7,2600S,4 (8),2.8 GHz,3.8 GHz,850 MHz,1350 MHz,8 MB,65 W,2011-01-09,$306,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Performance,Core i5,2550K,4 (4),3.4 GHz,3.8 GHz,,,6 MB,95 W,2012-01-30,$225,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Performance,Core i5,2500K,4 (4),3.3 GHz,3.7 GHz,850 MHz,1100 MHz,6 MB,95 W,2011-01-09,$216,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Performance,Core i5,2500,4 (4),3.3 GHz,3.7 GHz,850 MHz,1100 MHz,6 MB,95 W,2011-01-09,$205,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Performance,Core i5,2500S,4 (4),2.7 GHz,3.7 GHz,850 MHz,1100 MHz,6 MB,65 W,2011-01-09,$216,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Performance,Core i5,2500T,4 (4),2.3 GHz,3.3 GHz,650 MHz,1250 MHz,6 MB,45 W,2011-01-09,$216,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Performance,Core i5,2450P,4 (4),3.2 GHz,3.5 GHz,,,6 MB,95 W,2012-01-30,$195,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Performance,Core i5,2400,4 (4),3.1 GHz,3.4 GHz,850 MHz,1100 MHz,6 MB,95 W,2011-01-09,$184,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Performance,Core i5,2405S,4 (4),2.5 GHz,3.3 GHz,850 MHz,1100 MHz,6 MB,65 W,2011-05-22,$205,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Performance,Core i5,2400S,4 (4),2.5 GHz,3.3 GHz,850 MHz,1100 MHz,6 MB,65 W,2011-01-09,$195,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Performance,Core i5,2380P,4 (4),3.1 GHz,3.4 GHz,,,6 MB,95 W,2012-01-30,$177,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Performance,Core i5,2320,4 (4),3.0 GHz,3.3 GHz,850 MHz,1100 MHz,6 MB,95 W,2011-09-04,$177,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Performance,Core i5,2310,4 (4),2.9 GHz,3.2 GHz,850 MHz,1100 MHz,6 MB,95 W,2011-05-22,$177,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Performance,Core i5,2300,4 (4),2.8 GHz,3.1 GHz,850 MHz,1100 MHz,6 MB,95 W,2011-01-09,$177,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Mainstream,Core i5,2390T,2 (4),2.7 GHz,3.5 GHz,650 MHz,1100 MHz,3 MB,35 W,2011-02-20,$195,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Mainstream,Core i3,2120T,2 (4),2.6 GHz,,650 MHz,1100 MHz,3 MB,35 W,2011-09-04,$127,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Mainstream,Core i3,2100T,2 (4),2.5 GHz,,650 MHz,1100 MHz,3 MB,35 W,2011-02-20,$127,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Mainstream,Core i3,2115C,2 (4),2.0 GHz,,,,3 MB,25 W,2012-05,$241,BGA1284,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Mainstream,Core i3,2130,2 (4),3.4 GHz,,850 MHz,1100 MHz,3 MB,65 W,2011-09-04,$138,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Mainstream,Core i3,2125,2 (4),3.3 GHz,,850 MHz,1100 MHz,3 MB,65 W,2011-09-04,$134,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Mainstream,Core i3,2120,2 (4),3.3 GHz,,850 MHz,1100 MHz,3 MB,65 W,2011-02-20,$138,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Mainstream,Core i3,2105,2 (4),3.1 GHz,,850 MHz,1100 MHz,3 MB,65 W,2011-05-22,$134,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Mainstream,Core i3,2102,2 (4),3.1 GHz,,850 MHz,1100 MHz,3 MB,65 W,Q2 2011,$127,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Mainstream,Core i3,2100,2 (4),3.1 GHz,,850 MHz,1100 MHz,3 MB,65 W,2011-02-20,$117,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Mainstream,Pentium,G870,2 (2),3.1 GHz,,850 MHz,1100 MHz,3 MB,65 W,2012-06-03,$86,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Mainstream,Pentium,G860,2 (2),3.0 GHz,,850 MHz,1100 MHz,3 MB,65 W,2011-09-04,$86,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Mainstream,Pentium,G860T,2 (2),2.6 GHz,,650 MHz,1100 MHz,3 MB,35 W,2012-06-03,$75,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Mainstream,Pentium,G850,2 (2),2.9 GHz,,850 MHz,1100 MHz,3 MB,65 W,2011-05-24,$86,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Mainstream,Pentium,G840,2 (2),2.8 GHz,,850 MHz,1100 MHz,3 MB,65 W,2011-05-24,$75,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Mainstream,Pentium,G645,2 (2),2.9 GHz,,850 MHz,1100 MHz,3 MB,65 W,2012-09-03,$64,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Pentium,G640,2 (2),2.8 GHz,,850 MHz,1100 MHz,3 MB,65 W,2012-06-03,$64,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Pentium,G632,2 (2),2.7 GHz,,850 MHz,1100 MHz,3 MB,65 W,Q3 2011,,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Pentium,G630,2 (2),2.7 GHz,,850 MHz,1100 MHz,3 MB,65 W,2011-09-04,$75,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Pentium,G622,2 (2),2.6 GHz,,850 MHz,1100 MHz,3 MB,65 W,Q2 2011,,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Pentium,G620,2 (2),2.6 GHz,,850 MHz,1100 MHz,3 MB,65 W,2011-05-24,$64,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Pentium,G645T,2 (2),2.5 GHz,,650 MHz,1100 MHz,3 MB,35 W,2012-09-03,$64,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Pentium,G640T,2 (2),2.4 GHz,,650 MHz,1100 MHz,3 MB,35 W,2012-06-03,$64,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Pentium,G630T,2 (2),2.3 GHz,,650 MHz,1100 MHz,3 MB,35 W,2011-09-04,$70,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Pentium,G620T,2 (2),2.2 GHz,,650 MHz,1100 MHz,3 MB,35 W,2011-05-24,$70,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Celeron,G555,2 (2),2.7 GHz,,850 MHz,1000 MHz,2 MB,65 W,2012-09-02,$52,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Celeron,G550,2 (2),2.6 GHz,,850 MHz,1000 MHz,2 MB,65 W,2012-06-03,$52,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Celeron,G540,2 (2),2.5 GHz,,850 MHz,1000 MHz,2 MB,65 W,2011-09-04,$52,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Celeron,G530,2 (2),2.4 GHz,,850 MHz,1000 MHz,2 MB,65 W,2011-09-04,$42,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Celeron,G550T,2 (2),2.2 GHz,,650 MHz,1000 MHz,2 MB,35 W,2012-09-02,$42,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Celeron,G540T,2 (2),2.1 GHz,,650 MHz,1000 MHz,2 MB,35 W,2012-06-03,$42,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Celeron,G530T,2 (2),2.0 GHz,,650 MHz,1000 MHz,2 MB,35 W,2011-09-04,$47,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Celeron,G470,1 (2),2.0 GHz,,650 MHz,1000 MHz,1.5 MB,35 W,2013-06-09,$37,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1333
+Mainstream,Celeron,G465,1 (2),1.9 GHz,,650 MHz,1000 MHz,1.5 MB,35 W,2012-09-02,$37,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Celeron,G460,1 (2),1.8 GHz,,650 MHz,1000 MHz,1.5 MB,35 W,2011-12-11,$37,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066
+Mainstream,Celeron,G440,1 (1),1.6 GHz,,650 MHz,1000 MHz,1 MB,35 W,2011-09-04,$37,LGA1155,DMI 2.0PCIe 2.0,Up to dualchannelDDR3-1066

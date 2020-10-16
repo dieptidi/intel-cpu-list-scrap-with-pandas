@@ -1,0 +1,50 @@
+﻿processorbranding,model,cores(threads),baseclockrate,turboclockrate,maxgpuclockrate,l3,tdp,releasedate,price(usd),socket,memorysupport
+Core i7Extreme,4960X,6 (12),3.6 GHz,4.0 GHz,,15 MB,130 W,9/10/2013,$999[53],LGA2011,Up to quadchannelDDR3-1866
+Core i7,4930K,6 (12),3.4 GHz,3.9 GHz,,12 MB,130 W,9/10/2013,$583[53],LGA2011,Up to quadchannelDDR3-1866
+Core i7,4820K,4 (8),3.7 GHz,3.9 GHz,,10 MB,130 W,9/10/2013,$323[53],LGA2011,Up to quadchannelDDR3-1866
+Core i7,3770K,4 (8),3.5 GHz,3.9 GHz,1150 MHz,8 MB,77 W,4/23/2012,$332 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i7,3770,4 (8),3.4 GHz,3.9 GHz,1150 MHz,8 MB,77 W,4/23/2012,$294 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i7,3770S,4 (8),3.1 GHz,3.9 GHz,1150 MHz,8 MB,65 W,4/23/2012,$294 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i7,3770T,4 (8),2.5 GHz,3.7 GHz,1150 MHz,8 MB,45 W,4/23/2012,$294 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3570K,4 (4),3.4 GHz,3.8 GHz,1150 MHz,6 MB,77 W,4/23/2012,$225 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3570,4 (4),3.4 GHz,3.8 GHz,1150 MHz,6 MB,77 W,2012-05-31[55],$205 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3570S,4 (4),3.1 GHz,3.8 GHz,1150 MHz,6 MB,65 W,2012-05-31[55],$205 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3570T,4 (4),2.3 GHz,3.3 GHz,1150 MHz,6 MB,45 W,2012-05-31[55],$205 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3550,4 (4),3.3 GHz,3.7 GHz,1150 MHz,6 MB,77 W,4/23/2012,$205 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3550S,4 (4),3.0 GHz,3.7 GHz,1150 MHz,6 MB,65 W,4/23/2012,$205 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3475S,4 (4),2.9 GHz,3.6 GHz,1100 MHz,6 MB,65 W,2012-05-31[55],$201 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3470,4 (4),3.2 GHz,3.6 GHz,1100 MHz,6 MB,77 W,2012-05-31[55],$184 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3470S,4 (4),2.9 GHz,3.6 GHz,1100 MHz,6 MB,65 W,2012-05-31[55],$184 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3470T,2 (4),2.9 GHz,3.6 GHz,1100 MHz,3 MB,35 W,2012-05-31[55],$184 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3450,4 (4),3.1 GHz,3.5 GHz,1100 MHz,6 MB,77 W,4/23/2012,$184 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3450S,4 (4),2.8 GHz,3.5 GHz,1100 MHz,6 MB,65 W,4/23/2012,$184 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3350P,4 (4),3.1 GHz,3.3 GHz,,6 MB,69 W,9/3/2012,$177 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3340,4 (4),3.1 GHz,3.3 GHz,1050 MHz,6 MB,77 W,9/1/2013,$182 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3340S,4 (4),2.8 GHz,3.3 GHz,1050 MHz,6 MB,65 W,9/1/2013,$182 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3335S,4 (4),2.7 GHz,3.2 GHz,1050 MHz,6 MB,65 W,9/3/2012,$194 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3330S,4 (4),2.7 GHz,3.2 GHz,1050 MHz,6 MB,65 W,9/3/2012,$177 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i5,3330,4 (4),3.0 GHz,3.2 GHz,1050 MHz,6 MB,77 W,9/3/2012,$182 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i3,3250,2 (4),3.5 GHz,,1050 MHz,3 MB,55 W,6/9/2013,$138 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i3,3245,2 (4),3.4 GHz,,1050 MHz,3 MB,55 W,6/9/2013,$134 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i3,3240,2 (4),3.4 GHz,,1050 MHz,3 MB,55 W,9/3/2012,$138 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i3,3225,2 (4),3.3 GHz,,1050 MHz,3 MB,55 W,9/3/2012,$134 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i3,3220,2 (4),3.3 GHz,,1050 MHz,3 MB,55 W,9/3/2012,$117 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i3,3210,2 (4),3.2 GHz,,1050 MHz,3 MB,55 W,1/20/2013,$117 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i3,3250T,2 (4),3.0 GHz,,1050 MHz,3 MB,35 W,6/9/2013,$138 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i3,3240T,2 (4),2.9 GHz,,1050 MHz,3 MB,35 W,9/3/2012,$138 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Core i3,3220T,2 (4),2.8 GHz,,1050 MHz,3 MB,35 W,9/3/2012,$117 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Pentium,G2140,2 (2),3.3 GHz,,1050 MHz,3 MB,55 W,6/9/2013,$86 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Pentium,G2130,2 (2),3.2 GHz,,1050 MHz,3 MB,55 W,1/20/2013,$86 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Pentium,G2120,2 (2),3.1 GHz,,1050 MHz,3 MB,55 W,9/3/2012,$86 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Pentium,G2120T,2 (2),2.7 GHz,,1050 MHz,3 MB,35 W,6/9/2013,$75 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Pentium,G2100T,2 (2),2.6 GHz,,1050 MHz,3 MB,35 W,9/3/2012,$75 ,LGA1155,Up to dualchannelDDR3-1600[54]
+Pentium,G2030,2 (2),3.0 GHz,,1050 MHz,3 MB,55 W,6/9/2013,$64 ,LGA1155,Dual channel DDR3-1333
+Pentium,G2020,2 (2),2.9 GHz,,1050 MHz,3 MB,55 W,1/20/2013,$64 ,LGA1155,Dual channel DDR3-1333
+Pentium,G2010,2 (2),2.8 GHz,,1050 MHz,3 MB,55 W,1/20/2013,$64 ,LGA1155,Dual channel DDR3-1333
+Pentium,G2030T,2 (2),2.6 GHz,,1050 MHz,3 MB,35 W,6/9/2013,$64 ,LGA1155,Dual channel DDR3-1333
+Pentium,G2020T,2 (2),2.5 GHz,,1050 MHz,3 MB,35 W,1/20/2013,$64 ,LGA1155,Dual channel DDR3-1333
+Celeron,G1630,2 (2),2.8 GHz,,1050 MHz,2 MB,55 W,9/1/2013,$52 ,LGA1155,Dual channel DDR3-1333
+Celeron,G1620,2 (2),2.7 GHz,,1050 MHz,2 MB,55 W,1/20/2013,$52 ,LGA1155,Dual channel DDR3-1333
+Celeron,G1610,2 (2),2.6 GHz,,1050 MHz,2 MB,55 W,1/20/2013,$42 ,LGA1155,Dual channel DDR3-1333
+Celeron,G1620T,2 (2),2.4 GHz,,1050 MHz,2 MB,35 W,9/1/2013,$42 ,LGA1155,Dual channel DDR3-1333
+Celeron,G1610T,2 (2),2.3 GHz,,1050 MHz,2 MB,35 W,1/20/2013,$42 ,LGA1155,Dual channel DDR3-1333

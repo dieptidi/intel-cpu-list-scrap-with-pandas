@@ -1,0 +1,87 @@
+﻿cores(threads),processorbranding,model,gpu,baseclockrate,turboclockrate,maxgpuclockrate,l3,l4,tdp,releasedate,price(usd),socket,memorysupport
+8 (16),Core i7Extreme,5960X,,3.0 GHz,3.5 GHz,,20 MB,,140 W,"August 29, 2014[86]",$999 ,LGA 2011-v3,Up to quadchannelDDR4-2133
+6 (12),Core i7Extreme,5930K,,3.5 GHz,3.7 GHz,,15 MB,,140 W,"August 29, 2014[86]",$583 ,LGA 2011-v3,Up to quadchannelDDR4-2133
+6 (12),Core i7Extreme,5820K,,3.3 GHz,3.6 GHz,,15 MB,,140 W,"August 29, 2014[86]",$389 ,LGA 2011-v3,Up to quadchannelDDR4-2133
+4 (8),Core i7,4790K,HD 4600 (GT2),4.0 GHz,4.4 GHz,1.25 GHz,8 MB,,88 W,"June 2, 2014",$339 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (8),Core i7,4790,HD 4600 (GT2),3.6 GHz,4.0 GHz,1.2 GHz,8 MB,,84 W,"May 11, 2014",$303 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (8),Core i7,4790S,HD 4600 (GT2),3.2 GHz,4.0 GHz,1.2 GHz,8 MB,,65 W,"May 11, 2014",$303 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (8),Core i7,4790T,HD 4600 (GT2),2.7 GHz,3.9 GHz,1.2 GHz,8 MB,,45 W,"May 11, 2014",$303 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (8),Core i7,4785T,HD 4600 (GT2),2.2 GHz,3.2 GHz,1.2 GHz,8 MB,,35 W,"May 11, 2014",$303 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (8),Core i7,4771,HD 4600 (GT2),3.5 GHz,3.9 GHz,1.2 GHz,8 MB,,84 W,"September 1, 2013",$320 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (8),Core i7,4770K,HD 4600 (GT2),3.5 GHz,3.9 GHz,1.25 GHz,8 MB,,84 W,"June 2, 2013[89]",$339 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (8),Core i7,4770,HD 4600 (GT2),3.4 GHz,3.9 GHz,1.2 GHz,8 MB,,84 W,"June 2, 2013[89]",$303 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (8),Core i7,4770S,HD 4600 (GT2),3.1 GHz,3.9 GHz,1.2 GHz,8 MB,,65 W,"June 2, 2013[89]",$303 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (8),Core i7,4770R,Iris Pro 5200 (GT3e),3.2 GHz,3.9 GHz,1.3 GHz,6 MB,128 MB,65 W,"June 2, 2013[89]",$392 ,BGA1364,Up to dualchannelDDR3-1600[88]
+4 (8),Core i7,4770T,HD 4600 (GT2),2.5 GHz,3.7 GHz,1.2 GHz,8 MB,,45 W,"June 2, 2013[89]",$303 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (8),Core i7,4770TE,HD 4600 (GT2),2.3 GHz,3.3 GHz,1 GHz,8 MB,,45 W,"June 2, 2013[89]",$303 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (8),Core i7,4765T,HD 4600 (GT2),2.0 GHz,3.0 GHz,1.2 GHz,8 MB,,35 W,"June 2, 2013[89]",$303 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4690K,HD 4600 (GT2),3.5 GHz,3.9 GHz,1.2 GHz,6 MB,,88 W,"June 2, 2014",$242 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4690,HD 4600 (GT2),3.5 GHz,3.9 GHz,1.2 GHz,6 MB,,84 W,"May 11, 2014",$213 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4690S,HD 4600 (GT2),3.2 GHz,3.9 GHz,1.2 GHz,6 MB,,65 W,"May 11, 2014",$213 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4690T,HD 4600 (GT2),2.5 GHz,3.5 GHz,1.2 GHz,6 MB,,45 W,"May 11, 2014",$213 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4670K,HD 4600 (GT2),3.4 GHz,3.8 GHz,1.2 GHz,6 MB,,84 W,"June 2, 2013",$242 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4670,HD 4600 (GT2),3.4 GHz,3.8 GHz,1.2 GHz,6 MB,,84 W,"June 2, 2013",$213 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4670S,HD 4600 (GT2),3.1 GHz,3.8 GHz,1.2 GHz,6 MB,,65 W,"June 2, 2013",$213 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4670R,Iris Pro 5200 (GT3e),3.0 GHz,3.7 GHz,1.3 GHz,4 MB,128 MB,65 W,"June 2, 2013",$310 ,BGA1364,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4670T,HD 4600 (GT2),2.3 GHz,3.3 GHz,1.2 GHz,6 MB,,45 W,"June 2, 2013",$213 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4590,HD 4600 (GT2),3.3 GHz,3.7 GHz,1.15 GHz,6 MB,,84 W,"May 11, 2014",$192 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4590S,HD 4600 (GT2),3.0 GHz,3.7 GHz,1.15 GHz,6 MB,,65 W,"May 11, 2014",$192 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4590T,HD 4600 (GT2),2.0 GHz,3.0 GHz,1.15 GHz,6 MB,,35 W,"May 11, 2014",$192 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4570,HD 4600 (GT2),3.2 GHz,3.6 GHz,1.15 GHz,6 MB,,84 W,"June 2, 2013",$192 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4570S,HD 4600 (GT2),2.9 GHz,3.6 GHz,1.15 GHz,6 MB,,65 W,"June 2, 2013",$192 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4570R,Iris Pro 5200 (GT3e),2.7 GHz,3.2 GHz,1.15 GHz,4 MB,128 MB,65 W,"June 2, 2013",$288 ,BGA1364,Up to dualchannelDDR3-1600[88]
+2 (4),Core i5,4570T,HD 4600 (GT2),2.9 GHz,3.6 GHz,1.15 GHz,4 MB,,35 W,"June 2, 2013",$192 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i5,4570TE,HD 4600 (GT2),2.7 GHz,3.3 GHz,1 GHz,4 MB,,35 W,"June 2, 2013",$192 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4460,HD 4600 (GT2),3.2 GHz,3.4 GHz,1.1 GHz,6 MB,,84 W,"May 11, 2014",$182 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4460S,HD 4600 (GT2),2.9 GHz,3.4 GHz,1.1 GHz,6 MB,,65 W,"May 11, 2014",$182 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4460T,HD 4600 (GT2),1.9 GHz,2.7 GHz,1.1 GHz,6 MB,,35 W,"May 11, 2014",$182 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4440,HD 4600 (GT2),3.1 GHz,3.3 GHz,1.1 GHz,6 MB,,84 W,"September 1, 2013",$182 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4440S,HD 4600 (GT2),2.8 GHz,3.3 GHz,1.1 GHz,6 MB,,65 W,"September 1, 2013",$182 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4430,HD 4600 (GT2),3.0 GHz,3.2 GHz,1.1 GHz,6 MB,,84 W,"June 2, 2013[89]",$182 ,LGA1150,Up to dualchannelDDR3-1600[88]
+4 (4),Core i5,4430S,HD 4600 (GT2),2.7 GHz,3.2 GHz,1.1 GHz,6 MB,,65 W,"June 2, 2013[89]",$182 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4370,HD 4600 (GT2),3.8 GHz,,1.15 GHz,4 MB,,54 W,"July 20, 2014",$149 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4360,HD 4600 (GT2),3.7 GHz,,1.15 GHz,4 MB,,54 W,"May 11, 2014",$149 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4350,HD 4600 (GT2),3.6 GHz,,1.15 GHz,4 MB,,54 W,"May 11, 2014",$138 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4340,HD 4600 (GT2),3.6 GHz,,1.15 GHz,4 MB,,54 W,"September 1, 2013",$149 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4330,HD 4600 (GT2),3.5 GHz,,1.15 GHz,4 MB,,54 W,"September 1, 2013",$138 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4370T,HD 4600 (GT2),3.3 GHz,,1.15 GHz,4 MB,,35 W,"March 30, 2015",$138 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4360T,HD 4600 (GT2),3.2 GHz,,1.15 GHz,4 MB,,35 W,"July 20, 2014",$138 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4350T,HD 4600 (GT2),3.1 GHz,,1.15 GHz,4 MB,,35 W,"May 11, 2014",$138 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4330T,HD 4600 (GT2),3.0 GHz,,1.15 GHz,4 MB,,35 W,"September 1, 2013",$138 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4340TE,HD 4600 (GT2),2.6 GHz,,1 GHz,4 MB,,35 W,"May 11, 2014",$138 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4330TE,HD 4600 (GT2),2.4 GHz,,1 GHz,4 MB,,35 W,"September 1, 2013",$122 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4170,HD 4400 (GT2),3.7 GHz,,1.15 GHz,3 MB,,54 W,"March 30, 2015",$117 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4160,HD 4400 (GT2),3.6 GHz,,1.15 GHz,3 MB,,54 W,"July 20, 2014",$117 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4150,HD 4400 (GT2),3.5 GHz,,1.15 GHz,3 MB,,54 W,"May 11, 2014",$117 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4130,HD 4400 (GT2),3.4 GHz,,1.15 GHz,3 MB,,54 W,"September 1, 2013",$122 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4170T,HD 4400 (GT2),3.2 GHz,,1.15 GHz,3 MB,,35 W,"March 30, 2015",$117 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4160T,HD 4400 (GT2),3.1 GHz,,1.15 GHz,3 MB,,35 W,"July 20, 2014",$117 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4150T,HD 4400 (GT2),3.0 GHz,,1.15 GHz,3 MB,,35 W,"May 11, 2014",$117 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (4),Core i3,4130T,HD 4400 (GT2),2.9 GHz,,1.15 GHz,3 MB,,35 W,"September 1, 2013",$122 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (2),Pentium,G3470,HD Graphics,3.6 GHz,,1.1 GHz,3 MB,,53 W,"March 30, 2015",$86 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (2),Pentium,G3460,HD Graphics,3.5 GHz,,1.1 GHz,3 MB,,53 W,"July 20, 2014",$86 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (2),Pentium,G3450,HD Graphics,3.4 GHz,,1.1 GHz,3 MB,,53 W,"May 11, 2014",$86 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (2),Pentium,G3440,HD Graphics,3.3 GHz,,1.1 GHz,3 MB,,53 W,"May 11, 2014",$75 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (2),Pentium,G3430,HD Graphics,3.3 GHz,,1.1 GHz,3 MB,,53 W,"December 1, 2013",$86 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (2),Pentium,G3420,HD Graphics,3.2 GHz,,1.1 GHz,3 MB,,53 W,"December 1, 2013",$75 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (2),Pentium,G3460T,HD Graphics,3.0 GHz,,1.1 GHz,3 MB,,35 W,"March 30, 2015",$75 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (2),Pentium,G3450T,HD Graphics,2.9 GHz,,1.1 GHz,3 MB,,35 W,"July 20, 2014",$75 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (2),Pentium,G3440T,HD Graphics,2.8 GHz,,1.1 GHz,3 MB,,35 W,"May 11, 2014",$75 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (2),Pentium,G3420T,HD Graphics,2.7 GHz,,1.1 GHz,3 MB,,35 W,"December 1, 2013",$75 ,LGA1150,Up to dualchannelDDR3-1600[88]
+2 (2),Pentium,G3320TE,HD Graphics,2.3 GHz,,1 GHz,3 MB,,35 W,"December 1, 2013",$75 ,LGA1150,Up to dualchannelDDR3-1333
+2 (2),Pentium,G3260,HD Graphics,3.3 GHz,,1.1 GHz,3 MB,,53 W,"March 30, 2015",$64 ,LGA1150,Up to dualchannelDDR3-1333
+2 (2),Pentium,G3258[c],HD Graphics,3.2 GHz,,1.1 GHz,3 MB,,53 W,"June 2, 2014",$72 ,LGA1150,Up to dualchannelDDR3-1333
+2 (2),Pentium,G3250,HD Graphics,3.2 GHz,,1.1 GHz,3 MB,,53 W,"July 20, 2014",$64 ,LGA1150,Up to dualchannelDDR3-1333
+2 (2),Pentium,G3240,HD Graphics,3.1 GHz,,1.1 GHz,3 MB,,53 W,"May 11, 2014",$64 ,LGA1150,Up to dualchannelDDR3-1333
+2 (2),Pentium,G3220,HD Graphics,3.0 GHz,,1.1 GHz,3 MB,,53 W,"December 1, 2013",$64 ,LGA1150,Up to dualchannelDDR3-1333
+2 (2),Pentium,G3260T,HD Graphics,2.9 GHz,,1.1 GHz,3 MB,,35 W,"March 30, 2015",$64 ,LGA1150,Up to dualchannelDDR3-1333
+2 (2),Pentium,G3250T,HD Graphics,2.8 GHz,,1.1 GHz,3 MB,,35 W,"July 20, 2014",$64 ,LGA1150,Up to dualchannelDDR3-1333
+2 (2),Pentium,G3240T,HD Graphics,2.7 GHz,,1.1 GHz,3 MB,,35 W,"May 11, 2014",$64 ,LGA1150,Up to dualchannelDDR3-1333
+2 (2),Pentium,G3220T,HD Graphics,2.6 GHz,,1.1 GHz,3 MB,,35 W,"December 1, 2013",$64 ,LGA1150,Up to dualchannelDDR3-1333
+2 (2),Celeron,G1850,HD Graphics,2.9 GHz,,1.05 GHz,2 MB,,53 W,"May 11, 2014",$52 ,LGA1150,Up to dualchannelDDR3-1333
+2 (2),Celeron,G1840,HD Graphics,2.8 GHz,,1.05 GHz,2 MB,,53 W,"May 11, 2014",$42 ,LGA1150,Up to dualchannelDDR3-1333
+2 (2),Celeron,G1830,HD Graphics,2.8 GHz,,1.05 GHz,2 MB,,53 W,"December 1, 2013",$52 ,LGA1150,Up to dualchannelDDR3-1333
+2 (2),Celeron,G1820,HD Graphics,2.7 GHz,,1.05 GHz,2 MB,,53 W,"December 1, 2013",$42 ,LGA1150,Up to dualchannelDDR3-1333
+2 (2),Celeron,G1840T,HD Graphics,2.5 GHz,,1.05 GHz,2 MB,,35 W,"May 11, 2014",$42 ,LGA1150,Up to dualchannelDDR3-1333
+2 (2),Celeron,G1820T,HD Graphics,2.4 GHz,,1.05 GHz,2 MB,,35 W,"December 1, 2013",$42 ,LGA1150,Up to dualchannelDDR3-1333
+2 (2),Celeron,G1820TE,HD Graphics,2.2 GHz,,1 GHz,2 MB,,35 W,"December 1, 2013",$42 ,LGA1150,Up to dualchannelDDR3-1333

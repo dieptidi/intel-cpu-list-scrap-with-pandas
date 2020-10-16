@@ -1,0 +1,32 @@
+﻿Cores(threads),Processorbranding and model,Processorbranding and model,CPUclockrate,Turbo clock GHz Num of cores,Turbo clock GHz Num of cores,Turbo clock GHz Num of cores,GPU,EUs,Maxgraphicsclock rate,L2cache,L3cache,L4 cache(eDRAM),TDP,Socket,Releasedate,Releaseprice(USD)
+Cores(threads),Processorbranding and model,Processorbranding and model.1,CPUclockrate,1,2,4,GPU,EUs,Maxgraphicsclock rate,L2cache,L3cache,L4 cache(eDRAM),TDP,Socket,Releasedate,Releaseprice(USD)
+4 (8),Core i7,6700K,4.0 GHz,4.2,4.0,4.0,HD 530,24,1150 MHz [86],4 × 256 KB,8 MB,,91 W,LGA 1151,"August 5, 2015",$339
+4 (8),Core i7,6785R,3.3 GHz,3.9,3.8,3.5,Iris Pro 580,72,1150 MHz [86],4 × 256 KB,8 MB,128 MB,65 W,FCBGA1440,"May 3, 2016",$370
+4 (8),Core i7,6700,3.4 GHz,4.0,3.9,3.7,HD 530,24,1150 MHz [86],4 × 256 KB,8 MB,,65 W,LGA 1151,"September 1, 2015",$303
+4 (8),Core i7,6700T,2.8 GHz,3.6,3.5,3.4,HD 530,24,1150 MHz [86],4 × 256 KB,8 MB,,35 W,LGA 1151,"September 1, 2015",$303
+4 (4),Core i5,6600K,3.5 GHz,3.9,3.8,3.6,HD 530,24,1150 MHz [86],4 × 256 KB,6 MB,,91 W,LGA 1151,"August 5, 2015",$242
+4 (4),Core i5,6685R,3.2 GHz,3.8,3.7,3.3,Iris Pro 580,72,1150 MHz [86],4 × 256 KB,6 MB,128 MB,65 W,FCBGA1440,"May 3, 2016",$288
+4 (4),Core i5,6600,3.3 GHz,3.9,3.8,3.6,HD 530,24,1150 MHz [86],4 × 256 KB,6 MB,,65 W,LGA 1151,"September 1, 2015",$213
+4 (4),Core i5,6585R,2.8 GHz,3.6,3.5,3.1,Iris Pro 580,72,1100 MHz,4 × 256 KB,6 MB,128 MB,65 W,FCBGA1440,"May 3, 2016",$255
+4 (4),Core i5,6500,3.2 GHz,3.6,3.5,3.3,HD 530,24,1050 MHz,4 × 256 KB,6 MB,,65 W,LGA 1151,"September 1, 2015",$192
+4 (4),Core i5,6600T,2.7 GHz,3.5,3.4,3.3,HD 530,24,1100 MHz,4 × 256 KB,6 MB,,35 W,LGA 1151,Q3 2015,$213
+4 (4),Core i5,6500T,2.5 GHz,3.1,3.0,2.8,HD 530,24,1100 MHz,4 × 256 KB,6 MB,,35 W,LGA 1151,Q3 2015,$192
+4 (4),Core i5,6402P,2.8 GHz,3.4,3.4,3.2,HD 510,12,0950 MHz,4 × 256 KB,6 MB,,65 W,LGA 1151,"December 27, 2015",$182
+4 (4),Core i5,6400T,2.2 GHz,2.8,2.7,2.5,HD 530,24,0950 MHz,4 × 256 KB,6 MB,,35 W,LGA 1151,Q3 2015,$182
+4 (4),Core i5,6400,2.7 GHz,3.3,3.3,3.1,HD 530,24,0950 MHz,4 × 256 KB,6 MB,,65 W,LGA 1151,"August 5, 2015",$182
+2 (4),Core i3,6320,3.9 GHz,,,,HD 530,24,1150 MHz,2 × 256 KB,4 MB,,51 W,LGA 1151,Q3 2015,$149
+2 (4),Core i3,6300,3.8 GHz,,,,HD 530,24,1150 MHz,2 × 256 KB,4 MB,,51 W,LGA 1151,Q3 2015,$138
+2 (4),Core i3,6100,3.7 GHz,,,,HD 530,24,1050 MHz,2 × 256 KB,3 MB,,51 W,LGA 1151,October 2015,$117
+2 (4),Core i3,6300T,3.3 GHz,,,,HD 530,24,0950 MHz,2 × 256 KB,4 MB,,35 W,LGA 1151,October 2015,$138
+2 (4),Core i3,6100T,3.2 GHz,,,,HD 530,24,0950 MHz,2 × 256 KB,3 MB,,35 W,LGA 1151,October 2015,$117
+2 (4),Core i3,6098P,3.6 GHz,,,,HD 510,12,1050 MHz,2 × 256 KB,3 MB,,54 W,LGA 1151,"December 27, 2015",$117
+2 (2),Pentium,G4520,3.6 GHz,,,,HD 530,24,1050 MHz,2 × 256 KB,3 MB,,51 W,LGA 1151,October 2015,$86
+2 (2),Pentium,G4500,3.5 GHz,,,,HD 530,24,1050 MHz,2 × 256 KB,3 MB,,51 W,LGA 1151,October 2015,$75
+2 (2),Pentium,G4500T,3.0 GHz,,,,HD 530,24,0950 MHz,2 × 256 KB,3 MB,,35 W,LGA 1151,Q3 2015,$75
+2 (2),Pentium,G4400,3.3 GHz,,,,HD 510,12,1000 MHz,2 × 256 KB,3 MB,,54 W,LGA 1151,October 2015,$64
+2 (2),Pentium,G4400T,2.9 GHz,,,,HD 510,12,0950 MHz,2 × 256 KB,3 MB,,35 W,LGA 1151,Q3 2015,$64
+2 (2),Pentium,G4400TE,2.4 GHz,,,,HD 510,12,0950 MHz,2 × 256 KB,3 MB,,35 W,LGA 1151,Q4 2015,$70
+2 (2),Celeron,G3920,2.9 GHz,,,,HD 510,12,0950 MHz,2 × 256 KB,2 MB,,51 W,LGA 1151,Q4 2015,$52
+2 (2),Celeron,G3900,2.8 GHz,,,,HD 510,12,0950 MHz,2 × 256 KB,2 MB,,51 W,LGA 1151,Q4 2015,$42
+2 (2),Celeron,G3900TE,2.3 GHz,,,,HD 510,12,0950 MHz,2 × 256 KB,2 MB,,35 W,LGA 1151,Q4 2015,$42
+2 (2),Celeron,G3900T,2.6 GHz,,,,HD 510,12,0950 MHz,2 × 256 KB,2 MB,,35 W,LGA 1151,Q4 2015,$42

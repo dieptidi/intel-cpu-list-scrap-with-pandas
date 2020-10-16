@@ -1,0 +1,36 @@
+﻿processorbranding,model,cores(threads),baseclockrate,turbo1core,turbo2core,turbo3core,turbo4core,turbo5core,turbo6core,turbo7core,turbo8core,gpu,maxgpuclockrate,smartcache,tdp,memorysupport,price(usd)
+Core i9,9900KS,8 (16),4.0 GHz,5,5,5,5,5,5,5,5,UHD 630,1.20 GHz,16 MiB,127 W,DDR4-2666 2-channel up to 128 GiB,$513 
+Core i9,9900K,8 (16),3.6 GHz,5,5,4.9,4.8,4.8,4.7,4.7,4.7,UHD 630,1.20 GHz,16 MiB,95* W,DDR4-2666 2-channel up to 128 GiB,$488 
+Core i9,9900KF,8 (16),3.6 GHz,5,5,4.9,4.8,4.8,4.7,4.7,4.7,,,16 MiB,95* W,DDR4-2666 2-channel up to 128 GiB,$488 
+Core i9,9900,8 (16),3.1 GHz,5,5,4.9,4.8,4.8,4.7,4.7,4.6,UHD 630,1.20 GHz,16 MiB,65 W,DDR4-2666 2-channel up to 128 GiB,$423 
+Core i9,9900T,8 (16),2.1 GHz,4.4,4.3,4.2,4.1,4,3.9,3.8,3.6,UHD 630,1.20 GHz,16 MiB,35 W,DDR4-2666 2-channel up to 128 GiB,$423 
+Core i7,9700K,8 (8),3.6 GHz,4.9,4.8,4.7,4.7,4.6,4.6,4.6,4.6,UHD 630,1.20 GHz,12 MiB,95 W,DDR4-2666 2-channel up to 128 GiB,$374 
+Core i7,9700KF,8 (8),3.6 GHz,4.9,4.8,4.7,4.7,4.6,4.6,4.6,4.6,,,12 MiB,95 W,DDR4-2666 2-channel up to 128 GiB,$374 
+Core i7,9700,8 (8),3.0 GHz,4.7,,,,,,,,UHD 630,1.20 GHz,12 MiB,65 W,DDR4-2666 2-channel up to 128 GiB,$323 
+Core i7,9700F,8 (8),3.0 GHz,4.7,,,,,,,,,,12 MiB,65 W,DDR4-2666 2-channel up to 128 GiB,$323 
+Core i7,9700T,8 (8),2.0 GHz,4.3,,,,,,,,UHD 630,1.20 GHz,12 MiB,35 W,DDR4-2666 2-channel up to 128 GiB,$323 
+Core i5,9600K,6 (6),3.7 GHz,4.6,4.5,4.4,4.4,4.3,4.3,,,UHD 630,1.15 GHz,9 MiB,95 W,DDR4-2666 2-channel up to 128 GiB,$262 
+Core i5,9600KF,6 (6),3.7 GHz,4.6,4.5,4.4,4.4,4.3,4.3,,,,,9 MiB,95 W,DDR4-2666 2-channel up to 128 GiB,$262 
+Core i5,9600,6 (6),3.1 GHz,4.6,,,,,,,,UHD 630,1.15 GHz,9 MiB,65 W,DDR4-2666 2-channel up to 128 GiB,$213 
+Core i5,9600T,6 (6),2.3 GHz,3.9,,,,,,,,UHD 630,1.15 GHz,9 MiB,35 W,DDR4-2666 2-channel up to 128 GiB,$213 
+Core i5,9500,6 (6),3.0 GHz,4.4,,,,,,,,UHD 630,1.10 GHz,9 MiB,65 W,DDR4-2666 2-channel up to 128 GiB,$192 
+Core i5,9500F,6 (6),3.0 GHz,4.4,,,,,,,,,,9 MiB,65 W,DDR4-2666 2-channel up to 128 GiB,$192 
+Core i5,9500T,6 (6),2.2 GHz,3.7,,,,,,,,UHD 630,1.10 GHz,9 MiB,35 W,DDR4-2666 2-channel up to 128 GiB,$192 
+Core i5,9400,6 (6),2.9 GHz,4.1,4,4,4,3.9,3.9,,,UHD 630,1.05 GHz,9 MiB,65 W,DDR4-2666 2-channel up to 128 GiB,$182 
+Core i5,9400F,6 (6),2.9 GHz,4.1,4,4,4,3.9,3.9,,,,,9 MiB,65 W,DDR4-2666 2-channel up to 128 GiB,$182 
+Core i5,9400T,6 (6),1.8 GHz,3.4,,,,,,,,UHD 630,1.05 GHz,9 MiB,35 W,DDR4-2666 2-channel up to 128 GiB,$182 
+Core i3,9350KF,4 (4),4.0 GHz,4.6,,,,,,,,,,8 MiB,91 W,DDR4-2400 2-channel up to 64 GiB,$173 
+Core i3,9350k,4 (4),4.0 GHz,4.6,,,,,,,,UHD 630,1.15 GHz,8 MiB,91 W,DDR4-2400 2-channel up to 64 GiB,$173 
+Core i3,9320,4 (4),3.7 GHz,4.4,,,,,,,,UHD 630,1.15 GHz,8 MiB,62 W,DDR4-2400 2-channel up to 64 GiB,$154 
+Core i3,9300,4 (4),3.7 GHz,4.3,,,,,,,,UHD 630,1.15 GHz,8 MiB,62 W,DDR4-2400 2-channel up to 64 GiB,$143 
+Core i3,9300T,4 (4),3.2 GHz,3.8,,,,,,,,UHD 630,1.10 GHz,8 MiB,35 W,DDR4-2400 2-channel up to 64 GiB,$143 
+Core i3,9100,4 (4),3.6 GHz,4.2,4.1,4,4,,,,,UHD 630,1.10 GHz,6 MiB,65 W,DDR4-2400 2-channel up to 64 GiB,$122 
+Core i3,9100F,4 (4),3.6 GHz,4.2,4.1,4,4,,,,,,,6 MiB,65 W,DDR4-2400 2-channel up to 64 GiB,$122 
+Core i3,9100T,4 (4),3.1 GHz,3.7,,,,,,,,UHD 630,1.10 GHz,6 MiB,35 W,DDR4-2400 2-channel up to 64 GiB,$122 
+Pentium Gold,G5620,2 (4),4.0 GHz,,,,,,,,,UHD 630,1.10 GHz,4 MiB,54 W,DDR4-2400 2-channel up to 64 GiB,$86 
+Pentium Gold,G5600T,2 (4),3.3 GHz,,,,,,,,,UHD 630,1.05 GHz,4 MiB,35 W,DDR4-2400 2-channel up to 64 GiB,$75 
+Pentium Gold,G5420,2 (4),3.8 GHz,,,,,,,,,UHD 610,1.05 GHz,4 MiB,54 W,DDR4-2400 2-channel up to 64 GiB,$64 
+Pentium Gold,G5420T,2 (4),3.2 GHz,,,,,,,,,UHD 610,1.05 GHz,4 MiB,35 W,DDR4-2400 2-channel up to 64 GiB,$64 
+Celeron,G4950,2 (2),3.3 GHz,,,,,,,,,UHD 610,1.05 GHz,2 MiB,54 W,DDR4-2400 2-channel up to 64 GiB,$52 
+Celeron,G4930,2 (2),3.2 GHz,,,,,,,,,UHD 610,1.05 GHz,2 MiB,54 W,DDR4-2400 2-channel up to 64 GiB,$42 
+Celeron,G4930T,2 (2),3.0 GHz,,,,,,,,,UHD 610,1.00 GHz,2 MiB,35 W,DDR4-2400 2-channel up to 64 GiB,$42 

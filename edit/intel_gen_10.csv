@@ -1,0 +1,39 @@
+﻿processorbranding,model,cores(threads),baseclockrate,all-coreturbo,turboboost2.0,turboboostmax3.0,gpu,maxgpuclockrate,smartcache,tdp,memorysupport,price(usd)
+Core i9,10900K,10 (20),3.7 GHz,4.8 GHz,5.1 GHz,5.3 GHz,UHD 630,1.20 GHz,20 MiB,125 W,DDR4-2933 2-channel up to 128 GiB,$488 
+Core i9,10900KF,10 (20),3.7 GHz,4.8 GHz,5.1 GHz,5.3 GHz,,,20 MiB,125 W,DDR4-2933 2-channel up to 128 GiB,$472 
+Core i9,10910,10 (20),3.6 GHz,4.7 GHz,5.0 GHz,,UHD 630,1.20 GHz,20 MiB,125 W,DDR4-2933 2-channel up to 128 GiB,OEM
+Core i9,10900,10 (20),2.8 GHz,4.5 GHz,5.0 GHz,5.1 GHz,UHD 630,1.20 GHz,20 MiB,65 W,DDR4-2933 2-channel up to 128 GiB,$438 
+Core i9,10900F,10 (20),2.8 GHz,4.5 GHz,5.0 GHz,5.1 GHz,,,20 MiB,65 W,DDR4-2933 2-channel up to 128 GiB,$422 
+Core i9,10900T,10 (20),1.9 GHz,3.7 GHz,4.5 GHz,4.6 GHz,UHD 630,1.20 GHz,20 MiB,35 W,DDR4-2933 2-channel up to 128 GiB,$438 
+Core i9,10850K,10 (20),3.6 GHz,4.7 GHz,5.0 GHz,5.1 GHz,UHD 630,1.20 GHz,20 MiB,125 W,DDR4-2933 2-channel up to 128 GiB,$453 
+Core i7,10700K,8 (16),3.8 GHz,4.7 GHz,5.0 GHz,5.1 GHz,UHD 630,1.20 GHz,16 MiB,125 W,DDR4-2933 2-channel up to 128 GiB,$374 
+Core i7,10700KF,8 (16),3.8 GHz,4.7 GHz,5.0 GHz,5.1 GHz,,,16 MiB,125 W,DDR4-2933 2-channel up to 128 GiB,$349 
+Core i7,10700,8 (16),2.9 GHz,4.6 GHz,4.7 GHz,4.8 GHz,UHD 630,1.20 GHz,16 MiB,65 W,DDR4-2933 2-channel up to 128 GiB,$323 
+Core i7,10700F,8 (16),2.9 GHz,4.6 GHz,4.7 GHz,4.8 GHz,,,16 MiB,65 W,DDR4-2933 2-channel up to 128 GiB,$298 
+Core i7,10700T,8 (16),2.0 GHz,3.7 GHz,4.4 GHz,4.5 GHz,UHD 630,1.20 GHz,16 MiB,35 W,DDR4-2933 2-channel up to 128 GiB,$325 
+Core i5,10600K,6 (12),4.1 GHz,4.5 GHz,4.8 GHz,,UHD 630,1.20 GHz,12 MiB,125 W,DDR4-2666 2-channel up to 128 GiB,$262 
+Core i5,10600KF,6 (12),4.1 GHz,4.5 GHz,4.8 GHz,,,,12 MiB,125 W,DDR4-2666 2-channel up to 128 GiB,$237 
+Core i5,10600,6 (12),3.3 GHz,4.4 GHz,4.8 GHz,,UHD 630,1.20 GHz,12 MiB,65 W,DDR4-2666 2-channel up to 128 GiB,$213 
+Core i5,10600T,6 (12),2.4 GHz,3.7 GHz,4.0 GHz,,UHD 630,1.20 GHz,12 MiB,35 W,DDR4-2666 2-channel up to 128 GiB,$213 
+Core i5,10500,6 (12),3.1 GHz,4.2 GHz,4.5 GHz,,UHD 630,1.15 GHz,12 MiB,65 W,DDR4-2666 2-channel up to 128 GiB,$192 
+Core i5,10500T,6 (12),2.3 GHz,3.5 GHz,3.8 GHz,,UHD 630,1.15 GHz,12 MiB,35 W,DDR4-2666 2-channel up to 128 GiB,$192 
+Core i5,10400,6 (12),2.9 GHz,4.0 GHz,4.3 GHz,,UHD 630,1.10 GHz,12 MiB,65 W,DDR4-2666 2-channel up to 128 GiB,$182 
+Core i5,10400F,6 (12),2.9 GHz,4.0 GHz,4.3 GHz,,,,12 MiB,65 W,DDR4-2666 2-channel up to 128 GiB,$157 
+Core i5,10400T,6 (12),2.0 GHz,3.2 GHz,3.6 GHz,,UHD 630,1.10 GHz,12 MiB,35 W,DDR4-2666 2-channel up to 128 GiB,$182 
+Core i3,10320,4 (8),3.8 GHz,4.4 GHz,4.6 GHz,,UHD 630,1.15 GHz,8 MiB,65 W,DDR4-2666 2-channel up to 128 GiB,$154 
+Core i3,10300,4 (8),3.7 GHz,4.2 GHz,4.4 GHz,,UHD 630,1.15 GHz,8 MiB,65 W,DDR4-2666 2-channel up to 128 GiB,$143 
+Core i3,10300T,4 (8),3.0 GHz,3.6 GHz,3.9 GHz,,UHD 630,1.10 GHz,8 MiB,35 W,DDR4-2666 2-channel up to 128 GiB,$143 
+Core i3,10100,4 (8),3.6 GHz,4.1 GHz,4.3 GHz,,UHD 630,1.10 GHz,6 MiB,65 W,DDR4-2666 2-channel up to 128 GiB,$122 
+Core i3,10100F,4 (8),3.6 GHz,4.1 GHz,4.3 GHz,,,,6 MiB,65 W,DDR4-2666 2-channel up to 128 GiB,$79 - $97
+Core i3,10100T,4 (8),3.0 GHz,3.5 GHz,3.8 GHz,,UHD 630,1.10 GHz,6 MiB,35 W,DDR4-2666 2-channel up to 128 GiB,$122 
+Pentium Gold,G6600,2 (4),4.2 GHz,,,,UHD 630,1.10 GHz,4 MiB,58 W,DDR4-2666 2-channel up to 128 GiB,$86 
+Pentium Gold,G6500,2 (4),4.1 GHz,,,,UHD 630,1.10 GHz,4 MiB,58 W,DDR4-2666 2-channel up to 128 GiB,$75 
+Pentium Gold,G6500T,2 (4),3.5 GHz,,,,UHD 630,1.05 GHz,4 MiB,35 W,DDR4-2666 2-channel up to 128 GiB,$75 
+Pentium Gold,G6400,2 (4),4.0 GHz,,,,UHD 610,1.05 GHz,4 MiB,58 W,DDR4-2666 2-channel up to 128 GiB,$64 
+Pentium Gold,G6400T,2 (4),3.4 GHz,,,,UHD 610,1.05 GHz,4 MiB,35 W,DDR4-2666 2-channel up to 128 GiB,$64 
+Celeron,G5925,2 (2),3.6 GHz,,,,UHD 610,1.05 GHz,4 MiB,58 W,DDR4-2666 2-channel up to 128 GiB,$52 
+Celeron,G5920,2 (2),3.5 GHz,,,,UHD 610,1.05 GHz,2 MiB,58 W,DDR4-2666 2-channel up to 128 GiB,$52 
+Celeron,G5905,2 (2),3.5 GHz,,,,UHD 610,1.05 GHz,4 MiB,58 W,DDR4-2666 2-channel up to 128 GiB,$42 
+Celeron,G5905T,2 (2),3.3 GHz,,,,UHD 610,1.00 GHz,4 MiB,35 W,DDR4-2666 2-channel up to 128 GiB,$42 
+Celeron,G5900,2 (2),3.4 GHz,,,,UHD 610,1.05 GHz,2 MiB,58 W,DDR4-2666 2-channel up to 128 GiB,$42 
+Celeron,G5900T,2 (2),3.2 GHz,,,,UHD 610,1.00 GHz,2 MiB,35 W,DDR4-2666 2-channel up to 128 GiB,$42 
